@@ -16,5 +16,6 @@ Remaining work to make production reddy:
 1.Implement infinite scroll in HomeScreen
 2.Theme of app.
 3.Unit test case.
-4.code obfuscation
+4.code obfuscation.
+5.Error handling
 
